@@ -6,10 +6,10 @@ Thank you for contributing to this project.
 
 - Do **not** push directly to the `main` branch.
 - Create a feature branch from `develop`:
-    -`feature/...` for new functionality
-    -`fix/...` for bug fixes
-    -`chore/...` for setup/maintenance/etc.
-    -`experiment/...` for experiments
+    - `feature/...` for new functionality
+    - `fix/...` for bug fixes
+    - `chore/...` for setup/maintenance/etc.
+    - `experiment/...` for experiments
 - Open a pull request to merge your changes into `develop`.
 - `develop` is periodically merged into `main` for stable versions.
 
@@ -25,6 +25,7 @@ Before submitting code:
 
 You can run checks locally before pushing:
 
-```bash
+```
 pylint <your_python_files>
 pytest
+```

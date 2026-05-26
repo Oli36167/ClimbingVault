@@ -21,10 +21,13 @@ provided by Tomáš Sláma, licensed under [**CC BY-SA 4.0**](https://creativeco
 ### Built with
 
 ### Repository Structure
+```
+.
 ├── data
 ├── requirements
 ├── src
 └── tests
+```
 ## Getting Started
 
 ### Installation
