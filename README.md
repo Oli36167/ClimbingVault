@@ -24,13 +24,19 @@ provided by Tomáš Sláma, licensed under [**CC BY-SA 4.0**](https://creativeco
 ```
 .
 ├── data
-├── requirements
+├── notebooks
 ├── src
 └── tests
 ```
 ## Getting Started
 
 ### Installation
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 
 ## Roadmap
 - [ ] Interactive Route Detection
